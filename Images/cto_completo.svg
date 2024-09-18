@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export cto completo.svg Página-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.83741in" height="1.62538in"
+		viewBox="0 0 348.293 117.027" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#dde2cd;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st3 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:Calibri;font-size:1.16666em}
+		.st6 {fill:#ffd965;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st7 {stroke:#000000;stroke-linecap:butt;stroke-width:3}
+		.st8 {fill:#ffffff}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Página-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Electricidad" v:index="0"/>
+		<v:layer v:name="Conector" v:index="1"/>
+		<g id="shape118-1" v:mID="118" v:groupContext="shape" transform="translate(23.3514,-0.12)">
+			<title>Cuadro.118</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="0.239996" width="303.307" height="116.787" class="st1"/>
+		</g>
+		<g id="group119-3" transform="translate(100.773,-68.7893)" v:mID="119" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="Nº de entradas" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="3082"
+						v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="Tipo de puerta" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1"
+						v:langID="3082" v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="Nº de salidas" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="3082" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(OR)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Representa diferentes formas de puertas lógicas.)"/>
+				<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.095964565751195):1"/>
+			</v:userDefs>
+			<title>Puerta lógica 2.119</title>
+			<g id="shape120-4" v:mID="120" v:groupContext="shape" v:layerMember="0" transform="translate(0,-6.90945)">
+				<title>Hoja.120</title>
+				<path d="M0 103.21 L27.64 103.21" class="st2"/>
+				<path d="M0 117.03 L27.64 117.03" class="st2"/>
+				<path d="M55.28 110.12 L27.64 110.12" class="st2"/>
+			</g>
+			<g id="shape121-9" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(9.67323,0)">
+				<title>Hoja.121</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.047982282875598):1"/>
+				</v:userDefs>
+				<path d="M35.93 103.21 A37.2152 22.8004 0 0 1 10.78 117.03 L0 117.03 A53.3205 32.6674 -180 0 0 0 89.39 L10.78 89.39
+							 A36.7168 22.495 0 0 1 35.93 103.21 Z" class="st3"/>
+			</g>
+			<g id="shape122-11" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(0,4.6063)">
+				<title>Hoja.122</title>
+			</g>
+			<g id="shape123-13" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(37.4252,-3.47257)">
+				<title>Hoja.123</title>
+			</g>
+			<g id="shape124-15" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(9.67323,0)">
+				<title>Hoja.124</title>
+			</g>
+		</g>
+		<g id="group125-17" transform="translate(100.773,-20.6003)" v:mID="125" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="Nº de entradas" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="3082"
+						v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="Tipo de puerta" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1"
+						v:langID="3082" v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="Nº de salidas" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="3082" v:val="VT4(1)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Representa diferentes formas de puertas lógicas.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.095964565751196):1"/>
+			</v:userDefs>
+			<title>Puerta lógica 2.125</title>
+			<g id="shape126-18" v:mID="126" v:groupContext="shape" v:layerMember="0" transform="translate(0,-6.90945)">
+				<title>Hoja.126</title>
+				<path d="M0 103.21 L27.64 103.21" class="st2"/>
+				<path d="M0 117.03 L27.64 117.03" class="st2"/>
+				<path d="M55.28 110.12 L27.64 110.12" class="st2"/>
+			</g>
+			<g id="shape127-23" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(9.67323,0)">
+				<title>Hoja.127</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.047982282875598):1"/>
+				</v:userDefs>
+				<path d="M35.93 103.21 A37.2152 22.8004 0 0 1 10.78 117.03 L0 117.03 A53.3205 32.6674 -180 0 0 0 89.39 L10.78 89.39
+							 A36.7168 22.495 0 0 1 35.93 103.21 Z" class="st3"/>
+			</g>
+			<g id="shape128-25" v:mID="128" v:groupContext="shape" v:layerMember="0" transform="translate(0,4.6063)">
+				<title>Hoja.128</title>
+			</g>
+			<g id="shape129-27" v:mID="129" v:groupContext="shape" v:layerMember="0" transform="translate(37.4252,-3.47257)">
+				<title>Hoja.129</title>
+			</g>
+			<g id="shape130-29" v:mID="130" v:groupContext="shape" v:layerMember="0" transform="translate(9.67323,0)">
+				<title>Hoja.130</title>
+				<path d="M22.11 117.03 L0 117.03 L0 89.39 L22.11 89.39 A13.8189 13.8189 0 0 1 22.11 117.03 Z" class="st3"/>
+			</g>
+		</g>
+		<g id="shape131-31" v:mID="131" v:groupContext="shape" transform="translate(0.674213,-94.4428)">
+			<title>Hoja.131</title>
+			<desc>A</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="32.95" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>A</text>		</g>
+		<g id="shape132-34" v:mID="132" v:groupContext="shape" transform="translate(0.375,-55.2893)">
+			<title>Hoja.132</title>
+			<desc>B</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="33.19" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>B</text>		</g>
+		<g id="shape133-37" v:mID="133" v:groupContext="shape" transform="translate(63.0364,-42.8877)">
+			<title>Hoja.133</title>
+			<desc>A2</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="29.4" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>A2</text>		</g>
+		<g id="shape134-40" v:mID="134" v:groupContext="shape" transform="translate(57.5443,-13.5137)">
+			<title>Hoja.134</title>
+			<desc>B2</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="29.64" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>B2</text>		</g>
+		<g id="shape135-43" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(23.3514,-84.3798)">
+			<title>Puerto E/S.135</title>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Puerto de E/S unidireccional o bidireccional. )"/>
+			</v:userDefs>
+			<path d="M0 111.93 L0 106.84 L30.56 106.84 L40.75 111.93 L30.56 117.03 L0 117.03 L0 111.93 Z" class="st6"/>
+		</g>
+		<g id="shape136-45" v:mID="136" v:groupContext="shape" v:layerMember="0" transform="translate(23.3514,-70.7824)">
+			<title>Puerto E/S.136</title>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Puerto de E/S unidireccional o bidireccional. )"/>
+			</v:userDefs>
+			<path d="M0 111.93 L0 106.84 L30.56 106.84 L40.75 111.93 L30.56 117.03 L0 117.03 L0 111.93 Z" class="st6"/>
+		</g>
+		<g id="shape137-47" v:mID="137" v:groupContext="shape" transform="translate(124.009,-84.0255)">
+			<title>Hoja.137</title>
+			<desc>Y1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="30.04" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Y1</text>		</g>
+		<g id="shape138-50" v:mID="138" v:groupContext="shape" transform="translate(124.158,-36.1909)">
+			<title>Hoja.138</title>
+			<desc>Y2</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="30.04" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Y2</text>		</g>
+		<g id="shape147-53" v:mID="147" v:groupContext="shape" v:layerMember="1" transform="translate(100.773,-68.7007)">
+			<title>Conector dinámico.147</title>
+			<path d="M0 110.03 L-36.67 109.85" class="st7"/>
+		</g>
+		<g id="shape148-56" v:mID="148" v:groupContext="shape" v:layerMember="1" transform="translate(100.773,-96.5821)">
+			<title>Conector dinámico.148</title>
+			<path d="M0 124.09 L-36.67 124.14" class="st7"/>
+		</g>
+		<g id="group158-59" transform="translate(220.06,-46.431)" v:mID="158" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="Nº de entradas" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="3082"
+						v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="Tipo de puerta" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1"
+						v:langID="3082" v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="Nº de salidas" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="3082" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT4(XOR)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Representa diferentes formas de puertas lógicas.)"/>
+				<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.095964565751195):1"/>
+			</v:userDefs>
+			<title>Puerta lógica 2.112</title>
+			<g id="shape159-60" v:mID="159" v:groupContext="shape" v:layerMember="0" transform="translate(0,-6.90945)">
+				<title>Hoja.159</title>
+				<path d="M0 103.21 L27.64 103.21" class="st2"/>
+				<path d="M0 117.03 L27.64 117.03" class="st2"/>
+				<path d="M55.28 110.12 L27.64 110.12" class="st2"/>
+			</g>
+			<g id="shape160-65" v:mID="160" v:groupContext="shape" v:layerMember="0" transform="translate(9.67323,0)">
+				<title>Hoja.160</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.047982282875598):1"/>
+				</v:userDefs>
+				<path d="M35.93 103.21 A37.2152 22.8004 0 0 1 10.78 117.03 L0 117.03 A53.3205 32.6674 -180 0 0 0 89.39 L10.78 89.39
+							 A36.7168 22.495 0 0 1 35.93 103.21 Z" class="st8"/>
+				<path d="M35.93 103.21 A37.2152 22.8004 0 0 1 10.78 117.03 L0 117.03 A53.3205 32.6674 -180 0 0 0 89.39 L10.78 89.39
+							 A36.7168 22.495 0 0 1 35.93 103.21" class="st2"/>
+				<path d="M-3.59 117.03 A53.3205 32.6674 -180 0 0 -3.59 89.39" class="st2"/>
+			</g>
+			<g id="shape161-69" v:mID="161" v:groupContext="shape" v:layerMember="0" transform="translate(0,4.6063)">
+				<title>Hoja.161</title>
+			</g>
+			<g id="shape162-71" v:mID="162" v:groupContext="shape" v:layerMember="0" transform="translate(37.4252,-3.47257)">
+				<title>Hoja.162</title>
+			</g>
+			<g id="shape163-73" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(9.67323,0)">
+				<title>Hoja.163</title>
+			</g>
+		</g>
+		<g id="shape164-75" v:mID="164" v:groupContext="shape" transform="translate(172.58,-69.4625)">
+			<title>Hoja.164</title>
+			<desc>A1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="29.4" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>A1</text>		</g>
+		<g id="shape165-78" v:mID="165" v:groupContext="shape" transform="translate(172.58,-39.3444)">
+			<title>Hoja.165</title>
+			<desc>B1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="29.64" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>B1</text>		</g>
+		<g id="shape168-81" v:mID="168" v:groupContext="shape" transform="translate(239.044,-62.0216)">
+			<title>Hoja.168</title>
+			<desc>Y1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="30.04" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Y1</text>		</g>
+		<g id="shape169-84" v:mID="169" v:groupContext="shape" v:layerMember="0" transform="translate(326.182,168.357) rotate(180)">
+			<title>Puerto E/S.154</title>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Puerto de E/S unidireccional o bidireccional. )"/>
+			</v:userDefs>
+			<path d="M0 111.93 L0 106.84 L30.56 106.84 L40.75 111.93 L30.56 117.03 L0 117.03 L0 111.93 Z" class="st6"/>
+		</g>
+		<g id="shape172-86" v:mID="172" v:groupContext="shape" v:layerMember="1" transform="translate(287.471,-67.5137)">
+			<title>Conector dinámico.157</title>
+			<path d="M-2.04 123.94 L-12.14 124.29" class="st7"/>
+		</g>
+		<g id="shape173-89" v:mID="173" v:groupContext="shape" v:layerMember="1" transform="translate(156.048,-82.6082)">
+			<title>Conector dinámico.173</title>
+			<path d="M0 117.03 L32.42 117.03 L32.42 132.48 L64.01 132.48" class="st7"/>
+		</g>
+		<g id="shape174-92" v:mID="174" v:groupContext="shape" v:layerMember="1" transform="translate(220.06,-53.3405)">
+			<title>Conector dinámico.174</title>
+			<path d="M0 117.03 L-31.59 117.03 L-31.59 135.95 L-64.01 135.95" class="st7"/>
+		</g>
+		<g id="shape178-95" v:mID="178" v:groupContext="shape" v:layerMember="1" transform="translate(100.773,-41.3287)">
+			<title>Conector dinámico.178</title>
+			<path d="M0 117.03 L-10.63 117.03 L-10.63 68.88 L-36.67 68.88" class="st7"/>
+		</g>
+		<g id="shape179-98" v:mID="179" v:groupContext="shape" v:layerMember="1" transform="translate(100.773,-27.5098)">
+			<title>Conector dinámico.179</title>
+			<path d="M0 117.03 L-23.65 117.03 L-23.65 68.66 L-36.67 68.66" class="st7"/>
+		</g>
+		<g id="shape180-101" v:mID="180" v:groupContext="shape" transform="translate(57.2175,-91.0767)">
+			<title>Hoja.180</title>
+			<desc>A1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="29.4" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>A1</text>		</g>
+		<g id="shape181-104" v:mID="181" v:groupContext="shape" transform="translate(65.5718,-60.9586)">
+			<title>Hoja.181</title>
+			<desc>B1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="29.64" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>B1</text>		</g>
+		<g id="shape182-107" v:mID="182" v:groupContext="shape" transform="translate(273.918,-67.3365)">
+			<title>Hoja.182</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="37" cy="109.055" width="74.01" height="15.9449"/>
+			<rect x="0" y="101.082" width="74" height="15.9449" class="st4"/>
+			<text x="33.59" y="114.68" class="st5" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+	</g>
+</svg>
