@@ -323,3 +323,7 @@ begin
 end Behavioral;
 ```
 Nuevamente sería necesario realizar la simulación con las entradas salidas del hardware físico aquí implementadas y habiendolas tenido en cuenta en el desarrollo para poder verificar el funcionamiento final antes de la programación del sistema. El ddesarrollo de este test bcch se deja al lector para que mejore su práctica y comprensión.
+
+&copy; Diego Antolín Cañada
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
